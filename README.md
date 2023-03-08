@@ -4,9 +4,3 @@
     「 University Student - Bachelor of Science</b> 」<br>
   </samp>
 </p>
-
-    let  mut ethan = Human { 
-    	 occupation: String::from("University Student"),
-    	 obesession: String::from("caffeine"),
-    	 };
-				
