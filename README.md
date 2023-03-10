@@ -4,3 +4,9 @@
     「 University Student - Associate of Science</b> 」<br>
   </samp>
 </p>
+<p align="center"><br>
+  <samp>
+    「 Vim, Python + Rust 」<br>
+  </samp>
+</p>
+
